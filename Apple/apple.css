@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: rgb(24, 24, 24);
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    padding: 18px;
+
+}
+span{
+    margin: 20px;
+}
+.image{
+    width: 16px;
+    margin-left: 5px;
+
+    
+}
+.Applelogo{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+}
+#applelogo{
+    width: 20%;
+   
+    /* margin-top: 31px; */
+    text-align: center;
+   
+}
+.wvdc{
+    color: white;
+    font-size: 47px;
+    text-align: center;
+}
+#wvdc{
+    width: 45px;
+    text-align: center;
+}
+.subhead{
+    text-align: center;
+    color: white;
+}
